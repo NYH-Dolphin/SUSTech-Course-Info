@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Hotel list</title>
+    <link rel="stylesheet" type="text/css" href="assignment2.css"/>
+    <script type="text/javascript" src="assignment2.js"></script>
+</head>
+<body>
+<!-- table -->
+<table border="1" cellpadding="10" cellspacing="5">
+    <caption id="a">
+        <h2>Hotel List</h2>
+    </caption>
+    <tr>
+        <th>Hotel Name</th>
+        <th>City</th>
+        <th>District</th>
+        <th>Date</th>
+        <th>Earliest check-in time</th>
+        <th>price</th>
+        <th>Room Type</th>
+        <th>Operation</th>
+    </tr>
+    <tbody>
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td><input type="button" value="Delete"></td>
+    </tr>
+    </tbody>
+</table>
+
+<!--onClick="clickme()"-->
+<br/>
+<div style="text-align: center;"><button onclick="openDialogue()">Add hotel</button></div>
+<p>示例弹出层：<a href = "javascript:void(0)" onclick = "document.getElementById('my_form').style.display='block';document.getElementById('fade').style.display='block'">请点这里</a></p>
+<div id="light1" class="white_content1">这是一个层窗口示例程序.
+    <a href = "javascript:void(0)" onclick = "">点这里关闭本窗口</a></div></div>
+<div id="fade" class="black_overlay"></div>
+<div id="my_form" class="my_form">
+    <form name="form1">
+        <body onload="initial()">
+        Hotel Name:
+        <label>
+            <input type="text" name="hotel-name"/>
+        </label>
+        <br/>
+
+        City:
+        <label>
+            <input type="text" name="city"/>
+            <input type="radio" name="GZ" checked="checked">GUANG ZHOU
+            <input type="radio" name="SZ" checked="checked">SHEN ZHEN
+        </label>
+        <br/>
+
+        District:
+        <label>
+            <input type="text" name="district"/>
+        </label>
+        <br/>
+
+
+        Date:
+        <label for="year">
+            <select id="year" onchange="setMonth()"></select> year
+        </label>
+        <label for="month">
+            <select id="month" onchange="setDay()"></select> month
+        </label>
+        <label for="day">
+            <select id="day"></select> day
+        </label>
+        <br/>
+
+        Earliest check-in time:
+        <br/>
+
+        Price:
+        <label>
+            <input type="text" name="price"/>
+        </label>
+        <br/>
+
+        <input type="button" value="Add Hotel" onclick="closeDialogue()">
+        <br/>
+        </body>
+    </form>
+</div>
+
+<!-- form -->
+</body>
+</html>

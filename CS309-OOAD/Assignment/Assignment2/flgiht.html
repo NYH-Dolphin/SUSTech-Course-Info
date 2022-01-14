@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Flight list</title>
+    <link rel="stylesheet" type="text/css" href="flight.css"/>
+    <script type="text/javascript" src="flight.js"></script>
+</head>
+<body>
+<!-- table -->
+<table border="1" cellpadding="10" cellspacing="5">
+    <caption id="a">
+        <h2>Flight List</h2>
+    </caption>
+    <tr>
+        <th>Flight No.</th>
+        <th>Airline Company</th>
+        <th>From</th>
+        <th>To</th>
+        <th>Date</th>
+        <th>Departure Time</th>
+        <th>Arrival Time</th>
+    </tr>
+    <tbody>
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td><input type="button" value="Delete"></td>
+    </tr>
+    </tbody>
+</table>
+<!-- form -->
+<div>
+    <form name="form1">
+        <body onload="initial()">
+        Flight No.:
+        <label>
+            <input type="text" name="flight-no"/>
+        </label>
+        <br/>
+
+        Airline Company:
+        <label>
+            <input type="text" name="airline-company"/>
+        </label>
+        <br/>
+
+        From:
+        <label>
+            <input type="text" name="from"/>
+        </label>
+        <br/>
+
+        To:
+        <label>
+            <input type="text" name="to"/>
+        </label>
+        <br/>
+
+
+        Date:
+        <label for="year">
+            <select id="year" onchange="setMonth()"></select> year
+        </label>
+        <label for="month">
+            <select id="month" onchange="setDay()"></select> month
+        </label>
+        <label for="day">
+            <select id="day"></select> day
+        </label>
+        <br/>
+
+
+        Departure Time:
+        <label for="dhour"></label><select id="dhour"></select>:
+        <label for="dminute"></label><select id="dminute"></select>
+        <br/>
+
+        Arrival Time:
+        <label for="ahour"></label><select id="ahour"></select>:
+        <label for="aminute"></label><select id="aminute"></select>
+        <br/>
+
+        <input type="button" value="Add Flight" onclick="onClickAddFlight()">
+        <br/>
+        </body>
+    </form>
+</div>
+</body>
+</html>
