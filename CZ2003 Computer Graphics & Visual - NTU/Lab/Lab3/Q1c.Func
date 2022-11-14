@@ -1,0 +1,26 @@
+mode 0
+definition "rad=8*w;
+			alpha=-pi/2+pi/2*u;
+			theta=-pi+2*pi*v;
+			x=rad*cos(alpha)*sin(theta);
+			y=rad*sin(alpha);
+			z=(8*w)*cos(alpha)*cos(theta);
+			
+			"
+parameters 0 1 0 1 0 1
+resolution 60 60 60
+diffuseCodeColor "r=1;
+			g=1;
+			b=0;"
+backgroundColor 1 1 1
+axesColor 0 0 0
+SpecularColor 1 1 1
+Transparency 0
+Shininess 1
+Timecycle 1
+Timerange 0 1
+axesScale 1 1 1
+cameraPosition 56.08974 -15.99992 14.90002
+axesLabel X Y Z
+axes1 False
+axes2 True

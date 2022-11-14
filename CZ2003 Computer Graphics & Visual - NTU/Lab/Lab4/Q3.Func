@@ -1,0 +1,29 @@
+mode 1
+definition "sphere1=10^2-x^2-y^2-z^2;
+			cylinder=min(2.5^2-x^2-y^2, z, 15-z);
+			sphere2=2^2-(x-4.5)^2-(y-4.5)^2-(z-7.5)^2;
+			sphere3=2^2-(x+4.5)^2-(y-4.5)^2-(z-7.5)^2;
+			x1=x;
+			y1=y-7.5;
+			z1=z;
+			cone=min((1*(7.5-y1))^2-x1^2-z1^2, y1, 7.5-y1);
+			obj=max(min(min(max(sphere1, cylinder), -sphere2),-sphere3), cone);
+			return obj;"
+bboxSize 30 30 30
+bboxCenter 0 0 0
+bboxResolution 80 80 80
+diffuseCodeColor "r=max(min(0.05*x+0.5, 1), 0);
+			g=max(min(0.04*y+0.4, 1), 0);
+			b=max(min(0.04*z+0.4, 1), 0);"
+backgroundColor 1 1 1
+axesColor 0 0 0
+SpecularColor 1 1 1
+Transparency 0
+Shininess 1
+Timecycle 1
+Timerange 0 1
+axesScale 1 1 1
+cameraPosition 65.95712 2149.999 14.60022
+axesLabel X Y Z
+axes1 False
+axes2 True

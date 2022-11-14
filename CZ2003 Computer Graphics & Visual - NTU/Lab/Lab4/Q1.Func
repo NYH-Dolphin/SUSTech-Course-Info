@@ -1,0 +1,21 @@
+mode 1
+definition "final=z-1;
+			return final;"
+bboxSize 30 30 30
+bboxCenter 0 0 0
+bboxResolution 30 30 30
+diffuseCodeColor "r=0;
+			g=0.5*cos(2*pi/(10)*x)+0.5;
+			b=0;"
+backgroundColor 1 1 1
+axesColor 0 0 0
+SpecularColor 1 1 1
+Transparency 0
+Shininess 1
+Timecycle 1
+Timerange 0 1
+axesScale 1 1 1
+cameraPosition 65.86304 -13.59999 4.199999
+axesLabel X Y Z
+axes1 False
+axes2 True

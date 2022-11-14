@@ -1,0 +1,25 @@
+mode 0
+definition "rad=8/5*w;
+			dis=8;
+			x=(rad*sin(2*pi*u)+dis)*sin(2*pi*v);
+			y=max(rad*(cos(2*pi*u)),0);
+			z=(rad*sin(2*pi*u)+dis)*cos(2*pi*v);
+			
+			"
+parameters 0 1 0 1 0 1
+resolution 60 60 60
+diffuseCodeColor "r=1;
+			g=1;
+			b=0;"
+backgroundColor 1 1 1
+axesColor 0 0 0
+SpecularColor 1 1 1
+Transparency 0
+Shininess 1
+Timecycle 1
+Timerange 0 1
+axesScale 1 1 1
+cameraPosition 22.56567 -21.39994 10.49998
+axesLabel X Y Z
+axes1 False
+axes2 True

@@ -1,0 +1,22 @@
+mode 0
+definition "x=1*(cos(2*pi*u))^3;
+			y=1*(sin(2*pi*u))^3;
+			z=0;
+			"
+parameters 0 1
+resolution 300
+diffuseCodeColor "r=1;
+			g=0;
+			b=0;"
+backgroundColor 1 1 1
+axesColor 0 0 0
+SpecularColor 0 0 0
+Transparency 0
+Shininess 1
+Timecycle 1
+Timerange 0 1
+axesScale 1 1 1
+cameraPosition 4.780377 -13.19998 15.40001
+axesLabel X Y Z
+axes1 False
+axes2 True

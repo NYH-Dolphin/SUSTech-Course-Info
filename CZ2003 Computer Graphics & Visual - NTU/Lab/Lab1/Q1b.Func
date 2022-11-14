@@ -1,0 +1,21 @@
+mode 0
+definition "x=8*cos(0.125*pi + 1.875*pi*u)+8;
+			y=8*sin(0.125*pi + 1.875*pi*u)+1;
+			z=0;"
+parameters 0 1
+resolution 300
+diffuseCodeColor "r=1;
+			g=0;
+			b=0;"
+backgroundColor 1 1 1
+axesColor 0 0 0
+SpecularColor 1 1 1
+Transparency 0
+Shininess 1
+Timecycle 1
+Timerange 0 1
+axesScale 1 1 0
+cameraPosition 70.19814 -5.799986 -4.199985
+axesLabel X Y Z
+axes1 False
+axes2 True

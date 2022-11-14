@@ -1,0 +1,36 @@
+mode 0
+definition "x1=1.6*(cos(pi*v)^3);
+			y1=1.6*(cos(2*pi*u)*sin(pi*v))^3;
+			z1=1.6*sin(2*pi*u)*sin(pi*v);
+			
+			x2=0.5*cos(4/2*pi*u)*(-3+cos(2*pi*v)*(1+cos(2*pi*v)));
+			y2=0.5*sin(2*pi*v)*(1+cos(2*pi*v));
+			z2=0.5*sin(4/2*pi*u)*(-3+cos(2*pi*v)*(1+cos(2*pi*v)));
+			
+			
+			tau=t/7.5;
+			if(t>7.5){
+			tau=2-t/7.5;
+			}
+			
+			x=(1-tau)*x1+tau*x2;
+			y=(1-tau)*y1+tau*y2;
+			z=(1-tau)*z1+tau*z2;
+			"
+parameters 0 1 0 1 0 1
+resolution 100 100 100
+diffuseCodeColor "r=1-tau;
+			g=tau;
+			b=0;"
+backgroundColor 1 1 1
+axesColor 0 0 0
+SpecularColor 1 1 1
+Transparency 0
+Shininess 1
+Timecycle 15
+Timerange 0 15
+axesScale 1 1 1
+cameraPosition 8.964104 -154 218.8999
+axesLabel X Y Z
+axes1 False
+axes2 True

@@ -1,0 +1,23 @@
+mode 0
+definition "t1=t/3;
+			x=1.5*v*cos(2*pi*u)+4*cos(2*pi*t1);
+			y=1.5*v*sin(2*pi*u)+4*sin(2*pi*t1);
+			z=0;
+			"
+parameters 0 1 0 1
+resolution 6 2
+diffuseCodeColor "r=1;
+			g=0;
+			b=0;"
+backgroundColor 1 1 1
+axesColor 0 0 0
+SpecularColor 1 1 1
+Transparency 0
+Shininess 1
+Timecycle 3
+Timerange 0 3
+axesScale 1 1 1
+cameraPosition 27.36362 -13.8 -1.5
+axesLabel X Y Z
+axes1 False
+axes2 True

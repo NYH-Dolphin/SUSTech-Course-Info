@@ -1,0 +1,22 @@
+mode 0
+definition "rad1=8+(9-8)*w;
+			x=rad1*cos(2*pi*u);
+			y=rad1*sin(2*pi*u);
+			z=-8+(1+8)*v;"
+parameters 0 1 0 1 0 1
+resolution 60 60 60
+diffuseCodeColor "r=1;
+			g=1;
+			b=0;"
+backgroundColor 1 1 1
+axesColor 0 0 0
+SpecularColor 1 1 1
+Transparency 0
+Shininess 1
+Timecycle 1
+Timerange 0 1
+axesScale 1 1 1
+cameraPosition 59.04806 -26.99989 10.69999
+axesLabel X Y Z
+axes1 False
+axes2 True

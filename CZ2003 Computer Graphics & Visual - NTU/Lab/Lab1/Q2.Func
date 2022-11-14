@@ -1,0 +1,21 @@
+mode 0
+definition "x=(24*u-8);
+			y=sin((2*pi/3)*(24*u-8)+8)+cos((2*pi/3)*(24*u-8)+8)^3;
+			z=0;"
+parameters 0 1
+resolution 600
+diffuseCodeColor "r=1;
+			g=0;
+			b=0;"
+backgroundColor 1 1 1
+axesColor 0 0 0
+SpecularColor 1 1 1
+Transparency 0
+Shininess 1
+Timecycle 1
+Timerange 0 1
+axesScale 1 1 0
+cameraPosition 55.20219 722.1999 -5.000006
+axesLabel X Y Z
+axes1 False
+axes2 True

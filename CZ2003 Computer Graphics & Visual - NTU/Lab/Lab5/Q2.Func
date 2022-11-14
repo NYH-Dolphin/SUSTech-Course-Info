@@ -1,0 +1,60 @@
+mode 0
+definition "coss=cos(pi/16*t);
+			sinn=sin(pi/16*t);
+			
+			coss2=cos(-pi/14*(t-8));
+			sinn2=sin(-pi/14*(t-8));
+			
+			x0=8*u*cos(2*pi*v);
+			y0=8*u*sin(2*pi*v);
+			z0=0;
+			
+			x1=z0+1;
+			y1=y0;
+			z1=-x0+1;
+			
+			xfin=0;
+			yfin=0;
+			zfin=0;
+			if(t<=8){
+			xfin=coss*x0+sinn*z0-coss+1;
+			yfin=y0;
+			zfin=-sinn*x0+coss*z0+sinn;
+			}
+			
+			if(t>8){
+			xfin=coss2*x1+sinn2*z1-coss2+1;
+			yfin=y1;
+			zfin=-sinn2*x1+coss2*z1+sinn2;
+			}
+			
+			
+			x=xfin;
+			y=yfin;
+			z=zfin;
+			
+			
+			"
+parameters 0 1 0 1
+resolution 100 100
+diffuseCodeColor "red=0;
+			blue=1;
+			if(t>8){
+			blue=0;
+			red=1;
+			}
+			r=red;
+			g=0;
+			b=blue;"
+backgroundColor 1 1 1
+axesColor 0 0 0
+SpecularColor 1 1 1
+Transparency 0
+Shininess 1
+Timecycle 15
+Timerange 0 15
+axesScale 1 1 1
+cameraPosition 60.39846 -7.999989 37.90004
+axesLabel X Y Z
+axes1 False
+axes2 True

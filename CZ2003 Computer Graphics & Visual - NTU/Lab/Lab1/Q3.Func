@@ -1,0 +1,21 @@
+mode 0
+definition "x=(exp(sin(16*pi*u))-2*cos(4*(16*pi*u))+sin((2*(16*pi*u)-pi)/24)^5)*cos(16*pi*u)+8;
+			y=(exp(sin(16*pi*u))-2*cos(4*(16*pi*u))+sin((2*(16*pi*u)-pi)/24)^5)*sin(16*pi*u)+1;
+			z=0;"
+parameters 0 1
+resolution 6000
+diffuseCodeColor "r=1;
+			g=0;
+			b=0;"
+backgroundColor 1 1 1
+axesColor 0 0 0
+SpecularColor 1 1 1
+Transparency 0
+Shininess 1
+Timecycle 1
+Timerange 0 1
+axesScale 1 1 0
+cameraPosition 1.840729 351.7999 2.200012
+axesLabel X Y Z
+axes1 False
+axes2 True

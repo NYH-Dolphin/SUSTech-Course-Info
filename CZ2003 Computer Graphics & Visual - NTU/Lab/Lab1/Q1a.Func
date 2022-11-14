@@ -1,0 +1,21 @@
+mode 0
+definition "x=-8+u*(1+8);
+			y=-1+u*(8+1);
+			z=0;"
+parameters 0 1
+resolution 300
+diffuseCodeColor "r=1;
+			g=0;
+			b=0;"
+backgroundColor 1 1 1
+axesColor 0 0 0
+SpecularColor 1 1 1
+Transparency 0
+Shininess 1
+Timecycle 1
+Timerange 0 1
+axesScale 1 1 1
+cameraPosition 38.34289 8.200012 11.00001
+axesLabel X Y Z
+axes1 False
+axes2 True

@@ -1,0 +1,23 @@
+mode 0
+definition "n=8;
+			m=1;
+			x=(-10*n)+10*(m+n)*u;
+			y=(m-n)/2+(m+n)/2*m*cos(2*pi*sqrt((-1+2*u)^2+(-1+2*v)^2));
+			z=(-10*n)+10*(m+n)*v;"
+parameters 0 1 0 1 0 1
+resolution 100 100 100
+diffuseCodeColor "r=1;
+			g=1;
+			b=0;"
+backgroundColor 1 1 1
+axesColor 0 0 0
+SpecularColor 1 1 1
+Transparency 0
+Shininess 1
+Timecycle 1
+Timerange 0 1
+axesScale 1 1 1
+cameraPosition 241.753 409.0002 29.90002
+axesLabel X Y Z
+axes1 False
+axes2 True

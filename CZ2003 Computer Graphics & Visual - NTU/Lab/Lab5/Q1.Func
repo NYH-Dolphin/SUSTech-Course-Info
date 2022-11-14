@@ -1,0 +1,30 @@
+mode 0
+definition "y1=0;
+			if(t<=10){
+			y1=8+(1-t/10)*abs(cos(pi*(0.95)*t));
+			}else{
+			y1=8;
+			}
+			
+			x=8*cos(-pi/2+pi*u)*sin(-pi+2*pi*v);
+			y=8*sin(-pi/2+pi*u)+y1;
+			z=8*cos(-pi/2+pi*u)*cos(-pi+2*pi*v);
+			
+			"
+parameters 0 1 0 1 0 1
+resolution 50 50 50
+diffuseCodeColor "r=0.5;
+			g=0.22;
+			b=0.62;"
+backgroundColor 1 1 1
+axesColor 0 0 0
+SpecularColor 1 1 1
+Transparency 0
+Shininess 1
+Timecycle 15
+Timerange 0 15
+axesScale 1 1 1
+cameraPosition 79.63361 594.7999 2.499962
+axesLabel X Y Z
+axes1 False
+axes2 True

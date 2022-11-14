@@ -1,0 +1,21 @@
+mode 0
+definition "x=((8-(1+5)*cos(2*pi*u))*cos(2*pi*u)-8)*sin(-pi/8*v+(3*pi/2));
+			y=(8-(1+5)*cos(2*pi*u))*sin(2*pi*u);
+			z=((8-(1+5)*cos(2*pi*u))*cos(2*pi*u)-8)*cos(-pi/8*v+(3*pi/2));"
+parameters 0 1 0 1
+resolution 100 100
+diffuseCodeColor "r=0;
+			g=0.8;
+			b=0;"
+backgroundColor 1 1 1
+axesColor 0 0 0
+SpecularColor 1 1 1
+Transparency 0
+Shininess 1
+Timecycle 1
+Timerange 0 1
+axesScale 1 1 1
+cameraPosition 26.60746 -340.5001 42.20011
+axesLabel X Y Z
+axes1 False
+axes2 True

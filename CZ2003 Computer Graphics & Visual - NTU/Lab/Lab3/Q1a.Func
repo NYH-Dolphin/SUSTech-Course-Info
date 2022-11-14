@@ -1,0 +1,24 @@
+mode 0
+definition "n=8;
+			m=1;
+			x=n+(m)*u;
+			y=0+(m)*v;
+			z=m+(2*(n+m)-m)*w;
+			"
+parameters 0 1 0 1 0 1
+resolution 10 10 10
+diffuseCodeColor "r=1;
+			g=1;
+			b=0;"
+backgroundColor 1 1 1
+axesColor 0 0 0
+SpecularColor 1 1 1
+Transparency 0
+Shininess 1
+Timecycle 1
+Timerange 0 1
+axesScale 1 1 1
+cameraPosition 85.54224 -29.59994 17.1
+axesLabel X Y Z
+axes1 False
+axes2 True

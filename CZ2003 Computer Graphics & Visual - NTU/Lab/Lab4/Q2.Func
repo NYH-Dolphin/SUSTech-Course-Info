@@ -1,0 +1,21 @@
+mode 1
+definition "obj=min(5*sin((2*pi/10)*y)+5-z, 15-x, x+15, 15-y, y+15, z+10, 10-z);
+			return obj;"
+bboxSize 30 30 30
+bboxCenter 0 0 0
+bboxResolution 100 100 100
+diffuseCodeColor "r=0;
+			g=0.8;
+			b=0.8;"
+backgroundColor 1 1 1
+axesColor 0 0 0
+SpecularColor 1 1 1
+Transparency 0
+Shininess 1
+Timecycle 1
+Timerange 0 1
+axesScale 1 1 1
+cameraPosition 88.55423 2104.414 17.40034
+axesLabel X Y Z
+axes1 False
+axes2 True

@@ -1,0 +1,21 @@
+mode 0
+definition "x=8*cos(2*pi*u);
+			y=8*sin(2*pi*u);
+			z=-8+(1+8)*u;"
+parameters 0 1
+resolution 600
+diffuseCodeColor "r=1;
+			g=0;
+			b=0;"
+backgroundColor 1 1 1
+axesColor 0 0 0
+SpecularColor 1 1 1
+Transparency 0
+Shininess 1
+Timecycle 1
+Timerange 0 1
+axesScale 1 1 1
+cameraPosition 27.0911 293.2005 10.80004
+axesLabel X Y Z
+axes1 False
+axes2 True

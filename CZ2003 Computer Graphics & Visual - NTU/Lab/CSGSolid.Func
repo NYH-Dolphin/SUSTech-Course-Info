@@ -1,0 +1,23 @@
+mode 1
+definition "superellipsoid=0.7^6-x^6-y^6-z^6;
+			cylinder=0.25^2-x^2-y^2;
+			final=min(superellipsoid, -cylinder);
+			return final;"
+bboxSize 2 2 2
+bboxCenter 0 0 0
+bboxResolution 75 75 75
+diffuseCodeColor "r=0;
+			g=0.8;
+			b=0.8;"
+backgroundColor 1 1 1
+axesColor 0 0 0
+SpecularColor 1 1 1
+Transparency 0
+Shininess 1
+Timecycle 1
+Timerange 0 1
+axesScale 1 1 1
+cameraPosition 4.451578 -25.19994 20.89999
+axesLabel X Y Z
+axes1 False
+axes2 True

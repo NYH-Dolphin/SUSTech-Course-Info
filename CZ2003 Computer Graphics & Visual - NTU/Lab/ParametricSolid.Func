@@ -1,0 +1,22 @@
+mode 0
+definition "x=u;
+			y=v;
+			z=w;
+			"
+parameters 0 1 0 1 0 1
+resolution 30 30 30
+diffuseCodeColor "r=0.8;
+			g=0.8;
+			b=0;"
+backgroundColor 1 1 1
+axesColor 0 0 0
+SpecularColor 1 1 1
+Transparency 0
+Shininess 1
+Timecycle 1
+Timerange 0 1
+axesScale 1 1 1
+cameraPosition 4.282765 -25.19994 20.89999
+axesLabel X Y Z
+axes1 False
+axes2 True
