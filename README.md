@@ -28,11 +28,11 @@ SUSTech Course Info 主要记录了从大一到大四期间大部分必修课（
 
 当然你也可以通过vscode直接打开本仓库而无需下载，步骤如下图：
 
-![](readme_pic/vs1.png)
+![](/readme_pic/vs1.png)
 
-![](readme_pic/vs2.png)
+![](/readme_pic/vs2.png)
 
-![](readme_pic/vs3.png)
+![](/readme_pic/vs3.png)
 
 （提供者：Ruixiang Jiang）
 
