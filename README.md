@@ -26,15 +26,13 @@ SUSTech Course Info 主要记录了从大一到大四期间大部分必修课（
 
 如果你想下载具体的内容，又觉得本仓库过于庞大，请使用这个在线 [gadget](https://minhaskamal.github.io/DownGit/#/home) 下载需要的子文件夹或者文件（感谢 **[NeumoNeumo](https://github.com/NeumoNeumo)** 提供的方法）
 
-当然你也可以通过vscode直接打开本仓库而无需下载，步骤如下图：
+你也可以使用 VSCode 直接打开本仓库而无需下载，（感谢 [**Ruixiang Jiang**](https://github.com/RuixiangJiang) 提供的方法）
 
-![](/readme_pic/vs1.png)
+<img src="/readme_pic/vs1.png" alt="image-20240422110336835" style="zoom:30%;" />
 
-![](/readme_pic/vs2.png)
+<img src="/readme_pic/vs2.png" alt="image-20240422110336835" style="zoom:30%;" />
 
-![](/readme_pic/vs3.png)
-
-（提供者：Ruixiang Jiang）
+<img src="/readme_pic/vs3.png" alt="image-20240422110336835" style="zoom:30%;" />
 
 ## 如何利用本仓库的文件学习
 
@@ -108,5 +106,4 @@ SUSTech Course Info 主要记录了从大一到大四期间大部分必修课（
 | 深度学习              | 94   | A    |
 | 操作系统              | 98   | A+   |
 | NTU-计算机图形学      | \    | A    |
-
 
