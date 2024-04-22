@@ -26,6 +26,16 @@ SUSTech Course Info 主要记录了从大一到大四期间大部分必修课（
 
 如果你想下载具体的内容，又觉得本仓库过于庞大，请使用这个在线 [gadget](https://minhaskamal.github.io/DownGit/#/home) 下载需要的子文件夹或者文件（感谢 **[NeumoNeumo](https://github.com/NeumoNeumo)** 提供的方法）
 
+当然你也可以通过vscode直接打开本仓库而无需下载，步骤如下图：
+
+![](readme_pic/vs1.png)
+
+![](readme_pic/vs2.png)
+
+![](readme_pic/vs3.png)
+
+（提供者：Ruixiang Jiang）
+
 ## 如何利用本仓库的文件学习
 
 ### Note
