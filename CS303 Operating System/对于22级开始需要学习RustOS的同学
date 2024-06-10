@@ -1,3 +1,0 @@
-https://rcore-os.cn/rCore-Tutorial-Book-v3/index.html
-这是一个用 Rust 编写的基于 RISC-V 架构的 类 Unix 内核，文章里很详细地展示了操作系统的每一步是怎么实现的，还有配套练习题，无论是自学、做lab题还是复习理论课都非常有帮助
-Provided by [Ruixiang Jiang](https://github.com/RuixiangJiang)
