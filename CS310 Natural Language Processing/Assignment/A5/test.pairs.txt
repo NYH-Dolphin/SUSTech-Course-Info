@@ -1,0 +1,57 @@
+[CLS] 其 [MASK] 本 臃 肿 而 不 中 绳 墨 ， 其 [MASK] [MASK] 卷 曲 而 不 中 规 矩 。 [SEP] 立 之 涂 ， [MASK] 者 不 顾 。 [SEP]	1	大 小 枝 匠
+[CLS] 今 子 之 言 ， 大 [MASK] 无 用 ， 众 所 同 去 也 [MASK] [SEP] 庄 子 曰 ： [MASK] 独 不 见 狸 狌 乎 ？ [SEP]	1	而 。 子
+[CLS] 卑 身 而 伏 ， 以 候 [MASK] 者 ； [SEP] 东 西 跳 梁 ， [MASK] 避 高 下 ； [SEP]	1	敖 不
+[CLS] 使 同 乎 我 者 正 [MASK] ， 既 同 乎 我 矣 ， 恶 能 正 之 [MASK] [SEP] 使 异 乎 我 [MASK] 若 者 正 之 [MASK] 既 异 乎 我 与 若 [MASK] ， 恶 能 正 之 ？ [SEP]	1	之 ？ 与 ， 矣
+[CLS] 使 同 乎 [MASK] [MASK] 若 者 正 之 ， 既 同 乎 我 与 若 矣 ， 恶 [MASK] 正 之 ？ [SEP] 然 则 我 与 [MASK] 与 人 俱 [MASK] 能 相 知 也 ， 而 待 彼 [MASK] 邪 ？ [SEP]	1	我 与 能 若 不 也
+[CLS] 化 声 之 相 [MASK] ， 若 其 不 相 待 。 [SEP] 和 之 [MASK] [MASK] 倪 ， 因 之 以 曼 衍 ， 所 以 穷 年 也 。 [SEP]	1	待 以 天
+[CLS] 何 谓 和 之 以 [MASK] 倪 ？ [SEP] 曰 ： 是 不 是 ， 然 [MASK] 然 。 [SEP]	1	天 不
+[CLS] 是 若 果 [MASK] 也 ， 则 是 之 异 乎 不 是 也 亦 无 辩 [MASK] [SEP] 然 若 果 然 也 ， 则 然 之 异 乎 [MASK] 然 [MASK] 亦 无 辩 。 [SEP]	1	是 ； 不 也
+[CLS] 忘 年 忘 义 ， 振 于 无 竟 [MASK] [MASK] 寓 诸 无 竟 。 [SEP] 罔 两 问 景 曰 ： 曩 子 行 ， [MASK] 子 止 ； [SEP]	1	， 故 今
+[CLS] 曩 子 坐 ， 今 子 起 [MASK] [SEP] 何 其 无 [MASK] 操 与 ？ [SEP]	1	。 特
+[CLS] 是 遁 天 倍 情 ， 忘 其 [MASK] 受 ， 古 者 谓 之 遁 [MASK] 之 刑 。 [SEP] [MASK] 来 ， 夫 子 时 也 ； [SEP]	1	所 天 适
+[CLS] 挫 针 治 繲 ， 足 [MASK] 餬 口 ； [SEP] 鼓 荚 播 精 ， 足 以 食 十 人 [MASK] [SEP]	1	以 。
+[CLS] [MASK] 征 武 士 ， 则 支 离 攘 臂 [MASK] 其 间 ； [SEP] 上 有 大 役 ， 则 支 离 以 有 常 疾 不 [MASK] 功 [MASK] [SEP]	1	上 于 受 ；
+[CLS] 上 与 病 者 粟 [MASK] 则 受 三 锺 与 十 束 薪 。 [SEP] 夫 支 离 者 其 形 者 [MASK] 犹 足 [MASK] 养 其 身 ， 终 其 天 年 ， 又 况 [MASK] [MASK] 其 德 者 乎 ！ [SEP]	1	， ， 以 支 离
+[CLS] 孔 子 [MASK] 楚 ， 楚 [MASK] 接 舆 游 其 门 曰 ： 凤 兮 凤 兮 [MASK] 何 如 德 之 衰 也 。 [SEP] 来 世 不 [MASK] 待 ， 往 世 不 可 追 也 。 [SEP]	1	适 狂 ， 可
+[CLS] 天 下 有 [MASK] ， 圣 人 成 焉 ； [SEP] 天 下 [MASK] 道 ， 圣 人 生 焉 。 [SEP]	1	道 无
+[CLS] 方 今 之 时 ， 仅 免 刑 [MASK] ！ [SEP] 福 轻 乎 羽 ， 莫 之 [MASK] 载 ； [SEP]	1	焉 知
+[CLS] 无 [MASK] 之 情 ， 故 是 非 不 得 于 身 。 [SEP] 眇 [MASK] 小 哉 ， 所 以 属 于 人 也 ； [SEP]	1	人 乎
+[CLS] 謷 乎 大 哉 ， [MASK] 成 其 天 。 [SEP] 惠 子 谓 庄 子 曰 ： 人 [MASK] 无 情 乎 ？ [SEP]	1	独 故
+[CLS] 庄 子 曰 [MASK] 然 。 [SEP] 惠 [MASK] 曰 ： [MASK] 而 无 情 ， 何 以 谓 之 人 ？ [SEP]	1	： 子 人
+[CLS] 庄 子 曰 [MASK] 道 与 之 貌 ， [MASK] 与 之 形 ， 恶 得 不 [MASK] 之 人 ？ [SEP] 惠 子 曰 ： 既 [MASK] 之 人 [MASK] 恶 得 无 情 ？ [SEP]	1	： 天 谓 谓 ，
+[CLS] 曰 ： 回 [MASK] 礼 乐 矣 。 [SEP] 曰 ： 可 矣 ， 犹 未 也 [MASK] [SEP]	1	忘 。
+[CLS] 他 日 ， 复 见 ， 曰 ： 回 [MASK] 矣 。 [SEP] 曰 ： [MASK] 谓 也 ？ [SEP]	1	益 何
+[CLS] 曰 ： 回 [MASK] 忘 矣 。 [SEP] 仲 [MASK] 蹴 然 曰 ： 何 谓 坐 忘 ？ [SEP]	1	坐 尼
+[CLS] 颜 回 曰 ： 堕 肢 体 ， 黜 聪 [MASK] ， [MASK] 形 去 智 ， 同 于 [MASK] 通 ， 此 谓 坐 [MASK] 。 [SEP] 仲 尼 曰 ： [MASK] 则 无 [MASK] 也 ， 化 则 无 常 也 。 [SEP]	1	明 离 大 忘 同 好
+[CLS] 而 [MASK] 其 贤 乎 ！ [SEP] 丘 也 请 [MASK] 而 后 也 。 [SEP]	1	果 从
+[CLS] 子 舆 与 子 桑 友 [MASK] [SEP] [MASK] 霖 雨 十 日 [MASK] 子 舆 曰 ： 子 桑 殆 病 矣 ！ [SEP]	1	。 而 ，
+[CLS] 纷 而 封 哉 ， 一 以 是 终 [MASK] [SEP] 无 为 [MASK] 尸 ， 无 为 谋 [MASK] ， 无 为 事 任 ， [MASK] 为 知 主 。 [SEP]	1	。 名 府 无
+[CLS] 体 [MASK] 无 穷 ， 而 游 无 朕 。 [SEP] 尽 其 所 受 [MASK] 天 而 无 见 得 ， 亦 虚 而 [MASK] ！ [SEP]	1	尽 乎 已
+[CLS] 今 子 [MASK] 大 树 [MASK] 患 其 无 [MASK] ， 何 不 树 之 于 无 何 有 之 乡 ， 广 莫 之 [MASK] ， 彷 徨 乎 无 为 其 侧 [MASK] 逍 遥 乎 寝 卧 其 下 。 [SEP] 天 无 私 覆 ， 地 无 私 [MASK] ， 天 地 岂 私 贫 我 [MASK] ？ [SEP]	0	有 ， 用 野 ， 载 哉
+[CLS] 景 曰 ： [MASK] 有 待 而 然 者 邪 ？ [SEP] 庄 子 曰 ： 道 与 [MASK] 貌 ， 天 与 之 形 ， 无 以 好 恶 [MASK] 伤 其 [MASK] 。 [SEP]	0	吾 之 内 身
+[CLS] 子 舆 入 ， 曰 ： 子 之 歌 诗 ， 何 故 [MASK] 是 ？ [SEP] 殆 乎 [MASK] 殆 乎 ！ [SEP]	0	若 ，
+[CLS] 吾 行 郤 曲 ， 无 伤 [MASK] 足 。 [SEP] 天 [MASK] ！ [SEP]	0	吾 乎
+[CLS] 胡 蝶 之 梦 为 周 与 [MASK] [SEP] 桂 可 食 ， 故 [MASK] 之 ； [SEP]	0	？ 伐
+[CLS] 儵 与 忽 时 相 与 [MASK] [MASK] 浑 沌 之 地 ， 浑 沌 待 之 甚 善 。 [SEP] 吾 所 待 又 [MASK] 待 而 然 者 邪 ？ [SEP]	0	遇 于 有
+[CLS] 南 海 之 [MASK] 为 儵 北 [MASK] 之 帝 为 忽 ， 中 央 之 帝 为 浑 沌 。 [SEP] 已 [MASK] ， 已 乎 ！ [SEP]	0	帝 海 乎
+[CLS] 昔 者 庄 周 梦 为 [MASK] 蝶 ， 栩 栩 然 胡 蝶 也 。 [SEP] [MASK] 知 周 之 梦 为 胡 蝶 与 ？ [SEP]	0	胡 不
+[CLS] 日 [MASK] 一 窍 ， 七 日 而 浑 沌 死 。 [SEP] 迷 阳 迷 [MASK] ， 无 伤 吾 行 。 [SEP]	0	凿 阳
+[CLS] [MASK] 人 以 德 。 [SEP] 山 木 ， 自 寇 也 [MASK] [SEP]	0	临 ；
+[CLS] 有 不 任 其 声 而 趋 举 其 诗 [MASK] 。 [SEP] 自 喻 适 志 [MASK] ！ [SEP]	0	焉 与
+[CLS] 俄 然 觉 ， 则 蘧 蘧 然 周 [MASK] 。 [SEP] [MASK] 子 [MASK] 乎 子 之 神 ， 劳 乎 子 之 精 ， 倚 树 而 吟 ， 据 槁 [MASK] 而 瞑 。 [SEP]	0	也 今 外 梧
+[CLS] 周 [MASK] 胡 蝶 则 必 有 分 矣 。 [SEP] 至 子 桑 [MASK] 门 ， [MASK] 若 歌 若 哭 ， 鼓 琴 曰 ： 父 邪 ！ [SEP]	0	与 之 则
+[CLS] 曰 [MASK] 吾 思 夫 使 我 至 此 极 者 而 [MASK] 得 也 。 [SEP] 今 夫 斄 牛 ， [MASK] 大 若 垂 天 之 云 。 [SEP]	0	： 弗 其
+[CLS] 儵 [MASK] 忽 谋 报 浑 沌 [MASK] 德 ， 曰 ： [MASK] 皆 有 七 窍 以 视 听 食 息 此 独 无 有 ， 尝 试 凿 之 。 [SEP] 此 [MASK] 谓 物 化 。 [SEP]	0	与 之 人 之
+[CLS] 求 [MASK] 为 之 者 而 不 得 也 ！ [SEP] 安 [MASK] 而 处 顺 ， [MASK] 乐 不 能 入 也 ， 古 者 [MASK] 是 帝 之 县 解 。 [SEP]	0	其 时 哀 谓
+[CLS] 漆 可 用 ， 故 割 [MASK] 。 [SEP] 适 [MASK] ， 夫 子 顺 也 。 [SEP]	0	之 去
+[CLS] [MASK] 知 周 也 。 [SEP] 人 皆 [MASK] 有 用 之 用 [MASK] 而 莫 知 无 用 之 用 也 。 [SEP]	0	不 知 ，
+[CLS] 膏 火 ， 自 煎 [MASK] 。 [SEP] 恶 识 [MASK] 以 然 ？ [SEP]	0	也 所
+[CLS] 吾 待 蛇 蚹 蜩 [MASK] 邪 ？ [SEP] 父 母 岂 欲 吾 贫 [MASK] ？ [SEP]	0	翼 哉
+[CLS] 吾 [MASK] 谓 无 情 [MASK] ， 言 人 之 不 以 好 恶 [MASK] 伤 [MASK] 身 ， 常 因 自 然 而 不 益 生 也 。 [SEP] [MASK] 邪 ！ [SEP]	0	所 者 内 其 母
+[CLS] 惠 [MASK] 曰 ： 不 益 生 ， 何 [MASK] 有 其 身 ？ [SEP] 不 夭 斤 斧 ， 物 [MASK] 害 [MASK] ， 无 所 [MASK] 用 ， 安 所 困 苦 哉 ！ [SEP]	0	子 以 无 者 可
+[CLS] 人 [MASK] ！ [SEP] 庄 子 曰 ： 是 非 吾 所 谓 情 也 [MASK] [SEP]	0	乎 。
+[CLS] 画 地 而 [MASK] 。 [SEP] 至 人 之 用 心 [MASK] 镜 ， 不 将 不 逆 ， 应 而 不 藏 ， [MASK] 能 胜 物 [MASK] 不 伤 。 [SEP]	0	趋 若 故 而
+[CLS] 祸 重 乎 [MASK] ， 莫 之 知 避 。 [SEP] 恶 识 所 以 不 然 [MASK] [SEP]	0	地 ？
+[CLS] 指 [MASK] 于 为 薪 ， 火 传 也 ， 不 知 [MASK] 尽 也 。 [SEP] 此 能 为 大 矣 ， 而 不 能 执 [MASK] 。 [SEP]	0	穷 其 鼠
+[CLS] 天 选 [MASK] 之 形 ， 子 以 坚 白 鸣 。 [SEP] 中 于 [MASK] 辟 ， 死 于 罔 罟 。 [SEP]	0	子 机
+[CLS] 然 而 至 此 极 [MASK] ， 命 也 夫 ！ [SEP] 裹 饭 而 往 [MASK] 之 。 [SEP]	0	者 食
